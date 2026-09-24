@@ -1,0 +1,14 @@
+{
+  "1": {
+    "salt": "d0d1d729ff20338c",
+    "hash": "bbf158b8428703bcd9f4083623f11dfb1ae3da4222080699bec9148daf5fe35d"
+  },
+  "karo": {
+    "salt": "a5ee27cb0707614a",
+    "hash": "06219b3ab314e547d1a4c07c83178808b7b1f2e4ab8b060e734c089e93bab990"
+  },
+  "gio": {
+    "salt": "57d7367e76885928",
+    "hash": "bc81dc38192e62c376fcf7b5fe5d8e1fac79fc80f6923ec4e8416b354dc32d93"
+  }
+}
